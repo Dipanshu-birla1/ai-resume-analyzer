@@ -50,7 +50,7 @@ ai-resume-analyzer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+git clone https://github.com/Dipanshubirla1/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
 
